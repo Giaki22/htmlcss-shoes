@@ -27,6 +27,24 @@ nav{
     line-height: 40px;
     margin: 0px 10px;
 }
+/* Text */
+h1{
+    text-transform: uppercase;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 50px;
+}
+/* Pics */
+.pic{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    max-width: 600px;
+}
+img{
+    width: 100%;
+}
 /* Sections */
 #first{
     height: 100vh;
