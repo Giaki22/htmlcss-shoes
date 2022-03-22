@@ -22,4 +22,21 @@ nav{
     height: 40px;
     text-align: center;
     line-height: 40px;
+    margin: 0px 10px;
+}
+/* Sections */
+#first{
+    height: 100vh;
+    background-color: red;
+    color: yellow;
+}
+#second{
+    height: 100vh;
+    background-color: green;
+    color: yellow;
+}
+#third{
+    height: 100vh;
+    background-color: yellow;
+    color: green;
 }
